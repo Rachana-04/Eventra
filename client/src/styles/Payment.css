@@ -1,0 +1,32 @@
+.payment-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+  background: white;
+}
+
+.payment-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.payment-container button {
+  width: 100%;
+  padding: 12px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.summary {
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+}

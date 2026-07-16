@@ -1,0 +1,27 @@
+.wallet-container {
+  padding: 20px;
+}
+
+.wallet-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.wallet-card h4 {
+  margin: 0;
+}
+
+.wallet-card button {
+  padding: 6px 12px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.paid {
+  color: green;
+  font-weight: bold;
+}
